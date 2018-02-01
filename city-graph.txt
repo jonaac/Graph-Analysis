@@ -1,0 +1,1287 @@
+Abilene, TX, -6890.91, 2242.06, 0, 6
+Akron, OH, -5632.62, 2838.55, 0, 7
+Albany, NY, -5096.27, 2947.10, 0, 6
+Albuquerque, NM, -7369.09, 2424.18, 0, 5
+Alert, NT, -4303.32, 5701.62, 0, 5
+Allentown, PA, -5216.07, 2805.86, 0, 7
+Amarillo, TX, -7036.07, 2433.68, 2, 6
+    Albuquerque, NM, 272
+    Abilene, TX, 226
+Anchorage, AK, -10357.50, 4229.90, 0, 5
+Ann Arbor, MI, -5785.13, 2920.73, 0, 8
+Asheville, NC, -5704.14, 2459.86, 0, 5
+Ashland, KY, -5709.93, 2658.69, 0, 5
+Atlanta, GA, -5830.85, 2331.90, 0, 7
+Atlantic City, NJ, -5142.33, 2719.89, 0, 5
+Augusta, GA, -5664.12, 2312.69, 0, 6
+Augusta, ME, -4821.50, 3061.67, 0, 5
+Austin, TX, -6753.60, 2091.31, 1, 8
+    Abilene, TX, 190
+Bakersfield, CA, -8223.61, 2444.14, 0, 6
+Baltimore, MD, -5293.59, 2714.79, 0, 6
+Bangor, ME, -4752.28, 3095.56, 1, 7
+    Augusta, ME, 59
+Baton Rouge, LA, -6298.38, 2104.00, 0, 6
+Battle Creek, MI, -5885.55, 2924.21, 0, 6
+Bay City, MI, -5796.36, 3012.19, 1, 6
+    Ann Arbor, MI, 91
+Beaumont, TX, -6502.02, 2078.80, 0, 5
+Belleville, ON, -5341.75, 3053.49, 0, 6
+Bellingham, WA, -8463.32, 3369.09, 0, 7
+Berkeley, CA, -8448.44, 2616.77, 0, 9
+Billings, MT, -7496.88, 3163.43, 0, 6
+Biloxi, MS, -6141.59, 2100.22, 1, 6
+    Baton Rouge, LA, 135
+Binghamtom, NY, -5245.63, 2908.83, 1, 5
+    Allentown, PA, 105
+Birmingham, AL, -5997.68, 2316.13, 0, 5
+Bismarck, ND, -6963.69, 3234.25, 0, 6
+Bloomington, IL, -6149.07, 2797.28, 0, 6
+Boise, ID, -8029.09, 3013.51, 0, 7
+Boston, MA, -4909.96, 2926.78, 0, 7
+Bowling Green, KY, -5972.88, 2555.87, 0, 5
+Brandon, MB, -6906.17, 3448.55, 1, 6
+    Bismarck, ND, 217
+Brantford, ON, -5551.32, 2980.19, 0, 6
+Brattleboro, VT, -5013.47, 2960.81, 1, 10
+    Albany, NY, 62
+Bridgeport, CT, -5058.17, 2844.46, 0, 7
+Brockton, MA, -4907.10, 2907.78, 1, 6
+    Boston, MA, 19
+Buffalo, NY, -5450.17, 2963.26, 0, 7
+Burlington, ONT, -5517.35, 3001.69, 2, 9
+    Brantford, ON, 32
+    Buffalo, NY, 62
+Burlington, VT, -5058.67, 3073.09, 1, 7
+    Brattleboro, VT, 116
+Butte, MT, -7775.60, 3178.67, 2, 6
+    Billings, MT, 194
+    Boise, ID, 244
+Calgary, AB, -7878.31, 3531.75, 0, 5
+Cambridge, MA, -4913.12, 2927.93, 2, 8
+    Boston, MA, 2
+    Brockton, MA, 20
+Canton, OH, -5622.91, 2819.03, 1, 7
+    Akron, OH, 20
+Carson City, NV, -8275.34, 2706.05, 1, 5
+    Berkeley, CA, 162
+Cedar Rapids, IA, -6332.20, 2902.59, 0, 5
+Central Islip, NY, -5057.96, 2818.45, 1, 5
+    Bridgeport, CT, 25
+Champaign, IL, -6097.23, 2771.87, 1, 7
+    Bloomington, IL, 46
+Charleston, SC, -5522.89, 2264.71, 1, 5
+    Augusta, GA, 127
+Charleston, WV, -5640.47, 2649.80, 1, 5
+    Ashland, KY, 55
+Charlotte, NC, -5585.92, 2434.03, 2, 8
+    Asheville, NC, 99
+    Charleston, SC, 177
+Charlottetown, PE, -4361.40, 3198.44, 0, 6
+Chattanooga, TN, -5894.53, 2421.50, 2, 6
+    Atlanta, GA, 103
+    Birmingham, AL, 135
+Cheyenne, WY, -7242.59, 2842.60, 0, 6
+Chicago, IL, -6056.24, 2891.65, 0, 5
+Churchill, MB, -6498.95, 4058.49, 2, 6
+    Alert, NT, 1739
+    Brandon, MB, 653
+Cincinnati, OH, -5835.61, 2705.92, 1, 8
+    Ashland, KY, 108
+Cleveland, OH, -5644.81, 2867.43, 2, 5
+    Akron, OH, 30
+    Canton, OH, 51
+Colorado Springs, CO, -7242.67, 2683.25, 1, 5
+    Cheyenne, WY, 159
+Columbia, MO, -6379.87, 2691.39, 0, 5
+Columbia, SC, -5599.17, 2349.29, 3, 7
+    Augusta, GA, 65
+    Charleston, SC, 105
+    Charlotte, NC, 85
+Columbus, GA, -5872.29, 2242.90, 2, 6
+    Atlanta, GA, 95
+    Birmingham, AL, 128
+Columbus, OH, -5734.86, 2761.14, 2, 7
+    Ashland, KY, 104
+    Charleston, WV, 133
+Concord, NH, -4942.97, 2985.49, 3, 9
+    Augusta, ME, 116
+    Brattleboro, VT, 57
+    Burlington, VT, 120
+Corpus Christi, TX, -6729.65, 1920.88, 1, 5
+    Austin, TX, 171
+Dallas, TX, -6688.46, 2265.19, 1, 6
+    Abilene, TX, 172
+Dawson, YT, -9613.13, 4425.10, 2, 7
+    Alert, NT, 1744
+    Anchorage, AK, 393
+Dayton, OH, -5817.28, 2747.17, 2, 7
+    Cincinnati, OH, 43
+    Columbus, OH, 64
+Daytona Beach, FL, -5598.34, 2018.32, 0, 7
+Decatur, IL, -6146.39, 2752.79, 2, 7
+    Bloomington, IL, 44
+    Champaign, IL, 42
+Denver, CO, -7253.95, 2745.80, 2, 5
+    Cheyenne, WY, 97
+    Colorado Springs, CO, 63
+Des Moines, IA, -6467.97, 2874.42, 1, 6
+    Cedar Rapids, IA, 105
+Detroit, MI, -5738.11, 2924.92, 2, 6
+    Ann Arbor, MI, 35
+    Cleveland, OH, 90
+Dodge City, KS, -6910.72, 2608.55, 1, 5
+    Amarillo, TX, 201
+Dubuque, IA, -6264.52, 2936.60, 1, 5
+    Cedar Rapids, IA, 60
+Duluth, MN, -6364.15, 3232.53, 0, 8
+Durham, NC, -5451.57, 2487.02, 1, 9
+    Charlotte, NC, 121
+Eau Claire, WI, -6322.14, 3096.27, 1, 6
+    Duluth, MN, 139
+Edmonton, AB, -7843.78, 3701.63, 1, 6
+    Calgary, AB, 171
+Elizabeth, NJ, -5127.67, 2809.70, 1, 7
+    Atlantic City, NJ, 90
+El Paso, TX, -7357.75, 2194.38, 1, 5
+    Albuquerque, NM, 230
+Enid, OK, -6762.95, 2514.78, 2, 6
+    Amarillo, TX, 235
+    Dodge City, KS, 150
+Erie, PA, -5533.55, 2910.94, 2, 5
+    Brantford, ON, 70
+    Buffalo, NY, 80
+Eugene, OR, -8504.68, 3043.82, 0, 5
+Eureka, CA, -8579.09, 2819.26, 2, 8
+    Eugene, OR, 231
+    Berkeley, CA, 226
+Evansville, IN, -6049.73, 2623.89, 1, 5
+    Bowling Green, KY, 91
+Fairbanks, AK, -10206.60, 4480.01, 3, 6
+    Alert, NT, 1769
+    Anchorage, AK, 259
+    Dawson, YT, 261
+Fall River, MA, -4916.54, 2881.39, 3, 5
+    Brockton, MA, 27
+    Boston, MA, 45
+    Cambridge, MA, 46
+Fargo, ND, -6687.73, 3239.01, 2, 7
+    Bismarck, ND, 188
+    Duluth, MN, 221
+Flagstaff, AZ, -7714.57, 2432.03, 0, 5
+Flint, MI, -5782.44, 2971.98, 3, 6
+    Ann Arbor, MI, 51
+    Bay City, MI, 41
+    Detroit, MI, 57
+Ft Smith, AR, -6522.52, 2445.01, 0, 6
+Ft Wayne, IN, -5882.04, 2841.94, 1, 5
+    Battle Creek, MI, 82
+Ft Worth, TX, -6724.43, 2261.17, 3, 6
+    Abilene, TX, 141
+    Austin, TX, 171
+    Dallas, TX, 30
+Fredericton, NB, -4597.05, 3169.38, 2, 7
+    Bangor, ME, 131
+    Charlottetown, PE, 166
+Fresno, CA, -8275.68, 2539.11, 1, 6
+    Bakersfield, CA, 103
+Gadsden, AL, -5942.69, 2350.23, 4, 6
+    Atlanta, GA, 94
+    Birmingham, AL, 57
+    Chattanooga, TN, 81
+    Columbus, GA, 122
+Gainesville, FL, -5688.30, 2048.78, 1, 6
+    Daytona Beach, FL, 84
+Gallup, NM, -7513.60, 2454.83, 3, 7
+    Albuquerque, NM, 121
+    El Paso, TX, 290
+    Flagstaff, AZ, 165
+Galveston, TX, -6550.10, 2024.58, 3, 6
+    Beaumont, TX, 68
+    Corpus Christi, TX, 188
+    Austin, TX, 188
+Gary, IN, -6035.26, 2873.92, 1, 5
+    Chicago, IL, 23
+Grand Junction, CO, -7500.33, 2699.15, 4, 8
+    Cheyenne, WY, 243
+    Colorado Springs, CO, 201
+    Denver, CO, 196
+    Gallup, NM, 244
+Grand Rapids, MI, -5919.29, 2968.58, 1, 5
+    Battle Creek, MI, 50
+Great Falls, MT, -7690.35, 3282.06, 3, 7
+    Billings, MT, 178
+    Butte, MT, 118
+    Calgary, AB, 278
+Green Bay, WI, -6081.78, 3076.08, 0, 7
+Greensboro, NC, -5513.30, 2492.45, 2, 6
+    Charlotte, NC, 83
+    Durham, NC, 50
+Greenville, SC, -5693.08, 2408.16, 5, 8
+    Asheville, NC, 52
+    Atlanta, GA, 136
+    Augusta, GA, 98
+    Charlotte, NC, 91
+    Columbia, SC, 97
+Guelph, ON, -5546.08, 3009.12, 2, 7
+    Brantford, ON, 29
+    Burlington, ONT, 22
+Gulfport, MS, -6155.92, 2098.24, 2, 7
+    Baton Rouge, LA, 123
+    Biloxi, MS, 12
+Halifax, NS, -4388.17, 3101.07, 2, 6
+    Charlottetown, PE, 99
+    Fredericton, NB, 161
+Hamilton, OH, -5842.83, 2722.33, 3, 8
+    Cincinnati, OH, 17
+    Columbus, OH, 91
+    Dayton, OH, 31
+Hamilton, ON, -5522.91, 2982.99, 5, 10
+    Brantford, ON, 20
+    Buffalo, NY, 56
+    Burlington, ONT, 19
+    Erie, PA, 72
+    Guelph, ON, 31
+Harrisburg, PA, -5312.40, 2782.73, 2, 7
+    Baltimore, MD, 69
+    Allentown, PA, 76
+Hartford, CT, -5022.26, 2885.68, 1, 5
+    Bridgeport, CT, 49
+Helena, MT, -7741.15, 3219.36, 3, 6
+    Billings, MT, 178
+    Butte, MT, 47
+    Great Falls, MT, 71
+Hilo, HI, -10769.10, 1363.24, 1, 5
+    Eureka, CA, 2364
+Honolulu, HI, -10907.30, 1472.22, 2, 5
+    Hilo, HI, 169
+    Eureka, CA, 2383
+Houston, TX, -6589.17, 2056.50, 4, 8
+    Austin, TX, 146
+    Beaumont, TX, 78
+    Corpus Christi, TX, 183
+    Galveston, TX, 46
+Huntsville, AL, -5982.72, 2399.71, 4, 6
+    Birmingham, AL, 84
+    Chattanooga, TN, 75
+    Gadsden, AL, 59
+    Atlanta, GA, 142
+Indianapolis, IN, -5953.15, 2747.82, 2, 5
+    Hamilton, OH, 88
+    Cincinnati, OH, 99
+Iowa City, IA, -6324.33, 2878.60, 3, 5
+    Cedar Rapids, IA, 24
+    Des Moines, IA, 107
+    Dubuque, IA, 73
+Jackson, MI, -5831.77, 2919.00, 5, 10
+    Ann Arbor, MI, 34
+    Battle Creek, MI, 40
+    Bay City, MI, 96
+    Detroit, MI, 69
+    Grand Rapids, MI, 81
+Jackson, MS, -6231.37, 2231.69, 3, 6
+    Baton Rouge, LA, 139
+    Gulfport, MS, 148
+    Biloxi, MS, 152
+Jacksonville, FL, -5642.06, 2095.81, 2, 5
+    Daytona Beach, FL, 86
+    Gainesville, FL, 61
+Jersey City, NJ, -5118.47, 2814.13, 2, 7
+    Atlantic City, NJ, 95
+    Elizabeth, NJ, 8
+Johnstown, PA, -5273.15, 2783.06, 3, 7
+    Allentown, PA, 49
+    Baltimore, MD, 70
+    Harrisburg, PA, 29
+Joplin, MO, -6530.44, 2562.36, 1, 5
+    Ft Smith, AR, 117
+Juneau, AK, -9287.82, 4028.41, 3, 7
+    Anchorage, AK, 573
+    Dawson, YT, 426
+    Fairbanks, AK, 626
+Kalamazoo, MI, -5913.71, 2922.17, 4, 6
+    Battle Creek, MI, 20
+    Ft Wayne, IN, 83
+    Grand Rapids, MI, 46
+    Jackson, MI, 60
+Kansas City, KS, -6538.33, 2702.62, 2, 7
+    Columbia, MO, 123
+    Joplin, MO, 140
+Kansas City, MO, -6534.95, 2701.62, 3, 6
+    Columbia, MO, 120
+    Joplin, MO, 139
+    Kansas City, KS, 2
+Kenosha, WI, -6068.06, 2942.42, 3, 8
+    Chicago, IL, 51
+    Gary, IN, 72
+    Green Bay, WI, 134
+Key West, FL, -5650.84, 1696.66, 0, 6
+Kingston, ON, -5292.52, 3055.77, 1, 5
+    Belleville, ON, 35
+Kitchener, ON, -5554.22, 3002.82, 4, 6
+    Brantford, ON, 22
+    Burlington, ONT, 26
+    Guelph, ON, 8
+    Hamilton, ON, 30
+Knoxville, TN, -5798.57, 2484.72, 3, 5
+    Asheville, NC, 80
+    Chattanooga, TN, 100
+    Greenville, SC, 115
+Lafayette, IN, -6002.71, 2792.62, 3, 6
+    Champaign, IL, 75
+    Gary, IN, 84
+    Indianapolis, IN, 58
+Lancaster, PA, -5272.40, 2766.44, 3, 6
+    Baltimore, MD, 54
+    Harrisburg, PA, 34
+    Johnstown, PA, 16
+Lansing, MI, -5842.42, 2952.63, 7, 8
+    Battle Creek, MI, 42
+    Bay City, MI, 68
+    Flint, MI, 48
+    Grand Rapids, MI, 58
+    Jackson, MI, 34
+    Kalamazoo, MI, 60
+    Ann Arbor, MI, 52
+Laredo, TX, -6875.52, 1900.55, 4, 5
+    Corpus Christi, TX, 130
+    Austin, TX, 218
+    Houston, TX, 295
+    Galveston, TX, 311
+Las Vegas, NV, -7955.43, 2499.54, 2, 6
+    Flagstaff, AZ, 206
+    Bakersfield, CA, 224
+Lawrence, MA, -4917.10, 2950.86, 3, 7
+    Boston, MA, 24
+    Cambridge, MA, 23
+    Concord, NH, 39
+Lethbridge, AB, -7793.97, 3429.24, 5, 7
+    Calgary, AB, 115
+    Edmonton, AB, 274
+    Great Falls, MT, 162
+    Helena, MT, 212
+    Butte, MT, 250
+Lexington, KY, -5837.05, 2624.85, 6, 7
+    Ashland, KY, 105
+    Bowling Green, KY, 127
+    Cincinnati, OH, 81
+    Knoxville, TN, 143
+    Hamilton, OH, 97
+    Dayton, OH, 123
+Lihue, HI, -11011.90, 1518.80, 3, 5
+    Hilo, HI, 275
+    Honolulu, HI, 107
+    Eureka, CA, 2425
+Lima, OH, -5811.31, 2815.13, 3, 6
+    Columbus, OH, 79
+    Dayton, OH, 68
+    Ft Wayne, IN, 59
+Lincoln, NE, -6679.25, 2819.10, 0, 6
+Little Rock, AR, -6376.80, 2400.82, 1, 5
+    Ft Smith, AR, 127
+London, ON, -5612.35, 2968.25, 6, 6
+    Brantford, ON, 46
+    Erie, PA, 81
+    Kitchener, ON, 54
+    Guelph, ON, 63
+    Hamilton, ON, 66
+    Burlington, ONT, 76
+Los Angeles, CA, -8170.06, 2352.86, 2, 6
+    Bakersfield, CA, 101
+    Las Vegas, NV, 228
+Louisville, KY, -5925.61, 2643.20, 5, 5
+    Bowling Green, KY, 95
+    Evansville, IN, 99
+    Lexington, KY, 72
+    Cincinnati, OH, 94
+    Hamilton, OH, 102
+Lowell, MA, -4927.67, 2945.78, 5, 8
+    Boston, MA, 23
+    Brockton, MA, 40
+    Cambridge, MA, 20
+    Concord, NH, 41
+    Lawrence, MA, 9
+Lubbock, TX, -7037.72, 2320.08, 4, 6
+    Abilene, TX, 145
+    Amarillo, TX, 113
+    El Paso, TX, 297
+    Ft Worth, TX, 268
+Macon, GA, -5778.64, 2269.14, 4, 6
+    Atlanta, GA, 76
+    Augusta, GA, 105
+    Columbus, GA, 83
+    Greenville, SC, 156
+Madison, WI, -6177.23, 2976.16, 3, 7
+    Dubuque, IA, 75
+    Green Bay, WI, 121
+    Kenosha, WI, 86
+Manchester, NH, -4937.25, 2970.81, 5, 8
+    Brattleboro, VT, 56
+    Concord, NH, 15
+    Lawrence, MA, 24
+    Lowell, MA, 26
+    Cambridge, MA, 46
+Marshall, TX, -6520.37, 2248.70, 3, 5
+    Beaumont, TX, 170
+    Dallas, TX, 142
+    Ft Worth, TX, 172
+Medicine Hat, AB, -7650.33, 3456.09, 5, 8
+    Calgary, AB, 163
+    Edmonton, AB, 273
+    Great Falls, MT, 176
+    Helena, MT, 244
+    Lethbridge, AB, 96
+Memphis, TN, -6221.99, 2428.67, 3, 5
+    Little Rock, AR, 129
+    Jackson, MS, 197
+    Huntsville, AL, 198
+Meriden, CT, -5030.68, 2870.10, 2, 5
+    Bridgeport, CT, 32
+    Hartford, CT, 16
+Miami, FL, -5541.05, 1780.86, 1, 6
+    Key West, FL, 130
+Milwaukee, WI, -6073.95, 2973.80, 3, 6
+    Green Bay, WI, 102
+    Kenosha, WI, 31
+    Madison, WI, 75
+Minneapolis, MN, -6444.11, 3107.92, 3, 7
+    Duluth, MN, 136
+    Eau Claire, WI, 87
+    Fargo, ND, 214
+Minot, ND, -6999.10, 3332.66, 3, 6
+    Bismarck, ND, 101
+    Brandon, MB, 130
+    Fargo, ND, 230
+Mobile, AL, -6083.39, 2120.83, 2, 5
+    Biloxi, MS, 54
+    Gulfport, MS, 66
+Moncton, NB, -4469.28, 3186.15, 4, 7
+    Charlottetown, PE, 75
+    Fredericton, NB, 90
+    Halifax, NS, 102
+    Bangor, ME, 218
+Montgomery, AL, -5962.96, 2236.40, 5, 6
+    Birmingham, AL, 84
+    Columbus, GA, 76
+    Gadsden, AL, 115
+    Mobile, AL, 154
+    Atlanta, GA, 146
+Montpelier, VT, -5014.68, 3058.17, 4, 7
+    Burlington, VT, 34
+    Concord, NH, 89
+    Brattleboro, VT, 97
+    Manchester, NH, 103
+Montreal, QC, -5108.32, 3156.64, 2, 6
+    Burlington, VT, 90
+    Montpelier, VT, 118
+Moose Jaw, SK, -7293.60, 3477.58, 4, 6
+    Brandon, MB, 250
+    Edmonton, AB, 406
+    Medicine Hat, AB, 229
+    Minot, ND, 240
+Muncie, IN, -5899.83, 2777.19, 7, 7
+    Cincinnati, OH, 86
+    Ft Wayne, IN, 66
+    Hamilton, OH, 70
+    Indianapolis, IN, 50
+    Lafayette, IN, 79
+    Lima, OH, 77
+    Dayton, OH, 70
+Nashville, TN, -5996.43, 2498.90, 5, 6
+    Bowling Green, KY, 60
+    Chattanooga, TN, 113
+    Evansville, IN, 132
+    Huntsville, AL, 99
+    Memphis, TN, 196
+Natchez, MS, -6315.55, 2180.68, 3, 5
+    Baton Rouge, LA, 78
+    Jackson, MS, 87
+    Gulfport, MS, 159
+Newark, NJ, -5125.02, 2814.65, 2, 6
+    Elizabeth, NJ, 5
+    Jersey City, NJ, 4
+New Britain, CT, -5028.78, 2878.60, 3, 5
+    Hartford, CT, 8
+    Meriden, CT, 8
+    Bridgeport, CT, 40
+New Haven, CT, -5039.05, 2854.21, 5, 6
+    Bridgeport, CT, 17
+    Central Islip, NY, 38
+    Hartford, CT, 33
+    Meriden, CT, 17
+    New Britain, CT, 25
+New Orleans, LA, -6223.79, 2069.72, 6, 7
+    Baton Rouge, LA, 73
+    Biloxi, MS, 77
+    Gulfport, MS, 65
+    Jackson, MS, 162
+    Mobile, AL, 131
+    Natchez, MS, 136
+New York, NY, -5113.52, 2813.17, 4, 7
+    Central Islip, NY, 42
+    Elizabeth, NJ, 11
+    Jersey City, NJ, 3
+    Newark, NJ, 8
+Niagara Falls, ON, -5463.16, 2979.17, 3, 7
+    Buffalo, NY, 18
+    Hamilton, ON, 43
+    Burlington, ONT, 45
+Nome, AK, -11428.90, 4456.75, 4, 5
+    Anchorage, AK, 536
+    Fairbanks, AK, 521
+    Dawson, YT, 783
+    Juneau, AK, 1096
+Norfolk, VA, -5271.00, 2545.94, 1, 5
+    Durham, NC, 156
+North Bay, ON, -5490.80, 3208.34, 1, 5
+    Belleville, ON, 186
+Oakland, CA, -8448.31, 2612.12, 4, 10
+    Berkeley, CA, 4
+    Carson City, NV, 164
+    Eureka, CA, 230
+    Fresno, CA, 155
+Ogden, UT, -7736.85, 2848.33, 2, 5
+    Boise, ID, 271
+    Grand Junction, CO, 234
+Oklahoma City, OK, -6737.94, 2450.65, 5, 7
+    Dodge City, KS, 210
+    Enid, OK, 67
+    Lubbock, TX, 279
+    Ft Smith, AR, 175
+    Dallas, TX, 189
+Omaha, NE, -6628.87, 2850.79, 2, 6
+    Des Moines, IA, 122
+    Lincoln, NE, 49
+Orlando, FL, -5622.97, 1971.86, 4, 9
+    Daytona Beach, FL, 51
+    Gainesville, FL, 95
+    Jacksonville, FL, 125
+    Miami, FL, 204
+Ottawa, ON, -5252.81, 3131.36, 5, 8
+    Belleville, ON, 100
+    Kingston, ON, 80
+    Montreal, QC, 104
+    North Bay, ON, 182
+    Burlington, VT, 149
+Paducah, KY, -6121.88, 2562.30, 4, 5
+    Bowling Green, KY, 119
+    Evansville, IN, 84
+    Memphis, TN, 156
+    Nashville, TN, 118
+Pasadena, CA, -8163.21, 2359.46, 3, 7
+    Bakersfield, CA, 98
+    Las Vegas, NV, 220
+    Los Angeles, CA, 8
+Paterson, NJ, -5124.98, 2827.16, 4, 6
+    Elizabeth, NJ, 17
+    Jersey City, NJ, 13
+    Newark, NJ, 12
+    New York, NY, 16
+Pensacola, FL, -6026.31, 2101.97, 5, 6
+    Biloxi, MS, 99
+    Gulfport, MS, 111
+    Mobile, AL, 52
+    Montgomery, AL, 144
+    New Orleans, LA, 173
+Peoria, IL, -6190.20, 2811.75, 4, 6
+    Bloomington, IL, 34
+    Decatur, IL, 67
+    Iowa City, IA, 121
+    Champaign, IL, 81
+Peterborough, ON, -5414.57, 3056.10, 5, 10
+    Belleville, ON, 52
+    Kingston, ON, 87
+    North Bay, ON, 161
+    Ottawa, ON, 137
+    Niagara Falls, ON, 84
+Philadelphia, PA, -5193.52, 2760.53, 2, 5
+    Allentown, PA, 48
+    Atlantic City, NJ, 56
+Phoenix, AZ, -7743.78, 2311.13, 3, 5
+    Flagstaff, AZ, 123
+    Gallup, NM, 237
+    Las Vegas, NV, 256
+Pierre, SD, -6933.79, 3065.66, 2, 5
+    Bismarck, ND, 169
+    Fargo, ND, 244
+Pittsburgh, PA, -5527.38, 2794.27, 2, 5
+    Canton, OH, 76
+    Akron, OH, 91
+Pittsfield, MA, -5060.97, 2933.11, 2, 5
+    Albany, NY, 29
+    Brattleboro, VT, 44
+Pocatello, ID, -7769.44, 2962.23, 4, 6
+    Billings, MT, 280
+    Boise, ID, 195
+    Butte, MT, 216
+    Ogden, UT, 116
+Port Arthur, TX, -6490.06, 2065.86, 4, 5
+    Beaumont, TX, 16
+    Galveston, TX, 66
+    Houston, TX, 86
+    Baton Rouge, LA, 170
+Portland, ME, -4854.37, 3016.81, 5, 6
+    Augusta, ME, 50
+    Bangor, ME, 107
+    Concord, NH, 71
+    Manchester, NH, 75
+    Lawrence, MA, 80
+Portland, OR, -8476.31, 3145.48, 1, 6
+    Eugene, OR, 103
+Portsmouth, NH, -4889.42, 2976.07, 6, 6
+    Augusta, ME, 98
+    Concord, NH, 40
+    Lawrence, MA, 32
+    Manchester, NH, 35
+    Portland, ME, 48
+    Lowell, MA, 41
+Portsmouth, VA, -5271.90, 2545.16, 2, 5
+    Norfolk, VA, 1
+    Durham, NC, 155
+Prince Rupert, BC, -9013.16, 3750.93, 3, 6
+    Dawson, YT, 739
+    Juneau, AK, 316
+    Bellingham, WA, 512
+Providence, RI, -4934.35, 2889.85, 4, 5
+    Brockton, MA, 27
+    Fall River, MA, 15
+    Boston, MA, 41
+    Cambridge, MA, 41
+Provo, UT, -7715.07, 2779.99, 4, 5
+    Grand Junction, CO, 184
+    Ogden, UT, 70
+    Pocatello, ID, 186
+    Boise, ID, 330
+Pueblo, CO, -7228.00, 2643.22, 5, 6
+    Albuquerque, NM, 246
+    Cheyenne, WY, 199
+    Colorado Springs, CO, 41
+    Denver, CO, 104
+    Grand Junction, CO, 219
+Quebec City, QC, -4932.84, 3371.41, 3, 5
+    Montreal, QC, 245
+    Bangor, ME, 302
+    Fredericton, NB, 304
+Racine, WI, -6065.41, 2952.19, 6, 8
+    Chicago, IL, 60
+    Gary, IN, 81
+    Green Bay, WI, 124
+    Kenosha, WI, 10
+    Madison, WI, 85
+    Milwaukee, WI, 22
+Raleigh, NC, -5433.61, 2471.69, 4, 7
+    Durham, NC, 21
+    Greensboro, NC, 67
+    Norfolk, VA, 150
+    Portsmouth, VA, 149
+Rapid City, SD, -7132.78, 3045.78, 4, 5
+    Bismarck, ND, 222
+    Cheyenne, WY, 218
+    Pierre, SD, 143
+    Billings, MT, 283
+Reading, PA, -5246.24, 2787.01, 5, 7
+    Allentown, PA, 29
+    Harrisburg, PA, 50
+    Johnstown, PA, 20
+    Lancaster, PA, 28
+    Philadelphia, PA, 48
+Regina, SK, -7231.96, 3484.63, 5, 6
+    Brandon, MB, 211
+    Churchill, MB, 712
+    Minot, ND, 214
+    Moose Jaw, SK, 39
+    Medicine Hat, AB, 269
+Reno, NV, -8278.54, 2731.33, 3, 5
+    Carson City, NV, 25
+    Berkeley, CA, 175
+    Oakland, CA, 178
+Richmond, VA, -5352.19, 2594.79, 4, 5
+    Norfolk, VA, 81
+    Portsmouth, VA, 80
+    Baltimore, MD, 128
+    Durham, NC, 133
+Roanoke, VA, -5523.62, 2575.25, 4, 5
+    Charleston, WV, 118
+    Durham, NC, 105
+    Greensboro, NC, 83
+    Raleigh, NC, 126
+Rochester, MN, -6389.26, 3041.71, 2, 5
+    Eau Claire, WI, 72
+    Minneapolis, MN, 76
+Rochester, NY, -5362.92, 2981.80, 5, 7
+    Belleville, ON, 73
+    Kingston, ON, 89
+    Peterborough, ON, 83
+    Buffalo, NY, 66
+    Niagara Falls, ON, 73
+Rockford, IL, -6156.00, 2920.75, 7, 7
+    Cedar Rapids, IA, 131
+    Chicago, IL, 79
+    Dubuque, IA, 81
+    Kenosha, WI, 68
+    Madison, WI, 57
+    Milwaukee, WI, 80
+    Racine, WI, 73
+Sacramento, CA, -8394.66, 2665.83, 5, 8
+    Carson City, NV, 101
+    Eureka, CA, 208
+    Reno, NV, 111
+    Berkeley, CA, 64
+    Oakland, CA, 68
+Saginaw, MI, -5800.64, 3000.10, 6, 7
+    Bay City, MI, 12
+    Flint, MI, 31
+    Grand Rapids, MI, 92
+    Lansing, MI, 56
+    Ann Arbor, MI, 80
+    Jackson, MI, 84
+Saint Catherines, ON, -5470.42, 2984.36, 6, 7
+    Buffalo, NY, 25
+    Hamilton, ON, 38
+    Niagara Falls, ON, 7
+    Peterborough, ON, 82
+    Rochester, NY, 78
+    Burlington, ONT, 38
+Saint Cloud, MN, -6506.20, 3148.06, 4, 7
+    Duluth, MN, 129
+    Fargo, ND, 155
+    Minneapolis, MN, 59
+    Rochester, MN, 134
+Saint John, NB, -4552.73, 3131.15, 5, 7
+    Bangor, ME, 145
+    Charlottetown, PE, 149
+    Fredericton, NB, 49
+    Halifax, NS, 119
+    Moncton, NB, 80
+Saint John's, NF, -3644.93, 3290.24, 4, 5
+    Charlottetown, PE, 497
+    Halifax, NS, 547
+    Moncton, NB, 572
+    Saint John, NB, 644
+Saint Joseph, MO, -6553.47, 2747.84, 6, 8
+    Columbia, MO, 145
+    Des Moines, IA, 142
+    Kansas City, KS, 46
+    Kansas City, MO, 48
+    Lincoln, NE, 119
+    Omaha, NE, 117
+Saint Louis, MO, -6232.28, 2668.97, 4, 5
+    Columbia, MO, 117
+    Paducah, KY, 137
+    Decatur, IL, 106
+    Bloomington, IL, 143
+Saint Paul, MN, -6432.33, 3105.47, 5, 6
+    Duluth, MN, 135
+    Eau Claire, WI, 78
+    Minneapolis, MN, 8
+    Rochester, MN, 70
+    Saint Cloud, MN, 67
+Saint Petersburg, FL, -5712.79, 1918.83, 4, 7
+    Daytona Beach, FL, 141
+    Key West, FL, 229
+    Orlando, FL, 95
+    Gainesville, FL, 131
+Salem, OR, -8501.11, 3105.35, 2, 5
+    Eugene, OR, 61
+    Portland, OR, 43
+Salina, KS, -6744.50, 2683.69, 4, 6
+    Dodge City, KS, 150
+    Enid, OK, 169
+    Lincoln, NE, 144
+    Kansas City, KS, 161
+Salt Lake City, UT, -7731.13, 2816.40, 5, 5
+    Grand Junction, CO, 212
+    Ogden, UT, 32
+    Pocatello, ID, 148
+    Provo, UT, 38
+    Boise, ID, 295
+San Antonio, TX, -6805.46, 2033.06, 4, 5
+    Austin, TX, 73
+    Corpus Christi, TX, 130
+    Laredo, TX, 146
+    Houston, TX, 189
+San Bernardino, CA, -8104.15, 2356.74, 4, 7
+    Bakersfield, CA, 131
+    Las Vegas, NV, 187
+    Los Angeles, CA, 54
+    Pasadena, CA, 48
+San Diego, CA, -8095.00, 2260.48, 3, 5
+    Los Angeles, CA, 111
+    Pasadena, CA, 114
+    San Bernardino, CA, 96
+San Francisco, CA, -8458.58, 2610.09, 7, 10
+    Berkeley, CA, 10
+    Eureka, CA, 229
+    Hilo, HI, 2359
+    Honolulu, HI, 2394
+    Lihue, HI, 2446
+    Oakland, CA, 8
+    Sacramento, CA, 75
+San Jose, CA, -8422.34, 2579.99, 5, 7
+    Berkeley, CA, 42
+    Fresno, CA, 123
+    Oakland, CA, 38
+    Sacramento, CA, 88
+    San Francisco, CA, 41
+San Juan, PR, -4567.65, 1276.08, 4, 5
+    Miami, FL, 1032
+    Key West, FL, 1090
+    Orlando, FL, 1189
+    Daytona Beach, FL, 1197
+Santa Barbara, CA, -8270.56, 2378.33, 6, 6
+    Bakersfield, CA, 76
+    Los Angeles, CA, 86
+    Pasadena, CA, 90
+    San Bernardino, CA, 139
+    San Diego, CA, 187
+    Fresno, CA, 160
+Santa Cruz, CA, -8431.72, 2554.75, 8, 9
+    Berkeley, CA, 63
+    Fresno, CA, 125
+    Hilo, HI, 2358
+    Honolulu, HI, 2398
+    Lihue, HI, 2452
+    Oakland, CA, 58
+    San Francisco, CA, 59
+    San Jose, CA, 26
+Santa Fe, NM, -7319.80, 2465.81, 8, 8
+    Albuquerque, NM, 57
+    Amarillo, TX, 233
+    Colorado Springs, CO, 225
+    Denver, CO, 284
+    El Paso, TX, 273
+    Gallup, NM, 157
+    Lubbock, TX, 274
+    Pueblo, CO, 191
+Sarasota, FL, -5702.52, 1888.81, 5, 7
+    Key West, FL, 197
+    Miami, FL, 180
+    Orlando, FL, 108
+    Saint Petersburg, FL, 31
+    Daytona Beach, FL, 158
+Saskatoon, SK, -7372.49, 3604.78, 6, 7
+    Churchill, MB, 669
+    Edmonton, AB, 300
+    Medicine Hat, AB, 229
+    Moose Jaw, SK, 136
+    Regina, SK, 148
+    Lethbridge, AB, 318
+Sault Ste Marie, ON, -5839.24, 3211.91, 3, 6
+    Bay City, MI, 202
+    Saginaw, MI, 213
+    Green Bay, WI, 217
+Savannah, GA, -5603.66, 2216.82, 5, 5
+    Augusta, GA, 108
+    Charleston, SC, 83
+    Jacksonville, FL, 125
+    Macon, GA, 156
+    Columbia, SC, 132
+Schenectady, NY, -5108.93, 2958.27, 4, 6
+    Albany, NY, 14
+    Binghamtom, NY, 112
+    Pittsfield, MA, 43
+    Brattleboro, VT, 70
+Seattle, WA, -8452.53, 3289.40, 3, 8
+    Bellingham, WA, 80
+    Portland, OR, 144
+    Salem, OR, 187
+Sheboygan, WI, -6060.69, 3022.99, 5, 5
+    Green Bay, WI, 55
+    Milwaukee, WI, 50
+    Racine, WI, 70
+    Kenosha, WI, 80
+    Madison, WI, 96
+Sherbrooke, QC, -4953.51, 3139.57, 6, 7
+    Augusta, ME, 121
+    Bangor, ME, 148
+    Burlington, VT, 99
+    Montpelier, VT, 92
+    Montreal, QC, 109
+    Quebec City, QC, 232
+Sheridan, WY, -7390.17, 3095.29, 5, 5
+    Billings, MT, 101
+    Rapid City, SD, 190
+    Cheyenne, WY, 274
+    Helena, MT, 274
+    Great Falls, MT, 279
+Shreveport, LA, -6477.72, 2247.34, 5, 6
+    Beaumont, TX, 169
+    Little Rock, AR, 174
+    Marshall, TX, 36
+    Natchez, MS, 152
+    Port Arthur, TX, 181
+Sioux City, IA, -6660.82, 2936.57, 5, 6
+    Lincoln, NE, 118
+    Omaha, NE, 88
+    Pierre, SD, 236
+    Des Moines, IA, 156
+    Saint Joseph, MO, 205
+Sioux Falls, SD, -6681.55, 3009.12, 5, 5
+    Pierre, SD, 190
+    Sioux City, IA, 74
+    Omaha, NE, 163
+    Saint Cloud, MN, 186
+    Lincoln, NE, 190
+South Bend, IN, -5959.50, 2880.14, 5, 5
+    Battle Creek, MI, 70
+    Chicago, IL, 73
+    Ft Wayne, IN, 69
+    Gary, IN, 56
+    Kalamazoo, MI, 54
+Spartanburg, NC, -5661.16, 2414.86, 6, 6
+    Asheville, NC, 57
+    Augusta, GA, 102
+    Charlotte, NC, 64
+    Columbia, SC, 83
+    Greenville, SC, 27
+    Knoxville, TN, 131
+Spokane, WA, -8113.56, 3293.02, 4, 7
+    Boise, ID, 285
+    Calgary, AB, 283
+    Seattle, WA, 228
+    Bellingham, WA, 245
+Springfield, IL, -6193.98, 2750.12, 5, 6
+    Bloomington, IL, 58
+    Decatur, IL, 36
+    Peoria, IL, 61
+    Saint Louis, MO, 86
+    Champaign, IL, 77
+Springfield, MA, -5015.67, 2909.02, 6, 8
+    Albany, NY, 70
+    Brattleboro, VT, 51
+    Hartford, CT, 23
+    Meriden, CT, 40
+    New Britain, CT, 31
+    Pittsfield, MA, 41
+Springfield, MO, -6446.49, 2571.41, 6, 6
+    Columbia, MO, 130
+    Ft Smith, AR, 140
+    Joplin, MO, 67
+    Little Rock, AR, 179
+    Kansas City, MO, 147
+    Kansas City, KS, 149
+Springfield, OH, -5790.83, 2758.59, 5, 5
+    Cincinnati, OH, 62
+    Columbus, OH, 42
+    Dayton, OH, 23
+    Hamilton, OH, 53
+    Lima, OH, 58
+Stamford, CT, -5081.43, 2836.61, 5, 6
+    Bridgeport, CT, 19
+    Central Islip, NY, 25
+    New Haven, CT, 36
+    New York, NY, 33
+    Paterson, NJ, 34
+Steubenville, OH, -5571.47, 2789.37, 3, 6
+    Akron, OH, 67
+    Canton, OH, 49
+    Pittsburgh, PA, 33
+Stockton, CA, -8380.59, 2622.72, 9, 9
+    Berkeley, CA, 53
+    Carson City, NV, 117
+    Fresno, CA, 118
+    Oakland, CA, 54
+    Reno, NV, 134
+    Sacramento, CA, 44
+    San Francisco, CA, 62
+    San Jose, CA, 54
+    Santa Cruz, CA, 79
+Sudbury, ON, -5582.85, 3221.59, 4, 5
+    North Bay, ON, 64
+    Sault Ste Marie, ON, 176
+    Peterborough, ON, 203
+    Guelph, ON, 214
+Superior, WI, -6363.98, 3228.21, 5, 6
+    Duluth, MN, 4
+    Eau Claire, WI, 135
+    Minneapolis, MN, 132
+    Saint Cloud, MN, 127
+    Saint Paul, MN, 131
+Syndey, NS, -4149.04, 3189.55, 6, 6
+    Charlottetown, PE, 147
+    Halifax, NS, 189
+    Saint John's, NF, 358
+    Moncton, NB, 221
+    Saint John, NB, 287
+    Fredericton, NB, 311
+Syracuse, NY, -5261.48, 2974.43, 4, 5
+    Belleville, ON, 98
+    Binghamtom, NY, 66
+    Kingston, ON, 84
+    Rochester, NY, 74
+Tacoma, WA, -8460.28, 3264.98, 6, 10
+    Bellingham, WA, 104
+    Eugene, OR, 223
+    Portland, OR, 120
+    Salem, OR, 162
+    Seattle, WA, 24
+    Spokane, WA, 236
+Tallahassee, FL, -5823.44, 2103.14, 5, 5
+    Gainesville, FL, 128
+    Jacksonville, FL, 156
+    Columbus, GA, 145
+    Macon, GA, 170
+    Pensacola, FL, 174
+Tampa, FL, -5697.53, 1931.03, 7, 8
+    Daytona Beach, FL, 123
+    Gainesville, FL, 118
+    Key West, FL, 238
+    Miami, FL, 205
+    Orlando, FL, 77
+    Saint Petersburg, FL, 18
+    Sarasota, FL, 42
+Terre Haute, IN, -6039.92, 2726.98, 5, 6
+    Champaign, IL, 62
+    Evansville, IN, 103
+    Indianapolis, IN, 69
+    Lafayette, IN, 71
+    Decatur, IL, 85
+Texarkana, TX, -6498.27, 2309.52, 5, 5
+    Dallas, TX, 165
+    Ft Smith, AR, 136
+    Little Rock, AR, 135
+    Marshall, TX, 63
+    Shreveport, LA, 64
+Thunder Bay, ON, -6171.89, 3342.29, 5, 5
+    Duluth, MN, 169
+    Superior, WI, 172
+    Sault Ste Marie, ON, 260
+    Eau Claire, WI, 266
+    Green Bay, WI, 273
+Timmins, ON, -5622.77, 3355.96, 5, 5
+    North Bay, ON, 172
+    Sault Ste Marie, ON, 205
+    Sudbury, ON, 137
+    Peterborough, ON, 332
+    Ottawa, ON, 337
+Toledo, OH, -5773.31, 2878.79, 4, 5
+    Ann Arbor, MI, 42
+    Detroit, MI, 53
+    Jackson, MI, 59
+    Lima, OH, 69
+Topeka, KS, -6610.92, 2698.07, 6, 7
+    Kansas City, KS, 56
+    Kansas City, MO, 59
+    Lincoln, NE, 131
+    Omaha, NE, 153
+    Saint Joseph, MO, 66
+    Salina, KS, 104
+Toronto, ON, -5485.93, 3014.47, 8, 8
+    Buffalo, NY, 57
+    Burlington, ONT, 26
+    Guelph, ON, 43
+    Kitchener, ON, 50
+    Niagara Falls, ON, 38
+    Peterborough, ON, 66
+    Saint Catherines, ON, 32
+    Hamilton, ON, 41
+Trenton, NJ, -5164.44, 2778.82, 6, 7
+    Allentown, PA, 47
+    Atlantic City, NJ, 61
+    Philadelphia, PA, 28
+    Elizabeth, NJ, 41
+    Newark, NJ, 46
+    Jersey City, NJ, 49
+Trois-Rivieres, QC, -5021.83, 3202.78, 6, 6
+    Montreal, QC, 75
+    Quebec City, QC, 178
+    Sherbrooke, QC, 79
+    Burlington, VT, 132
+    Montpelier, VT, 144
+    Ottawa, ON, 176
+Troy, NY, -5091.81, 2952.34, 5, 6
+    Albany, NY, 6
+    Pittsfield, MA, 29
+    Schenectady, NY, 13
+    Brattleboro, VT, 58
+    Springfield, MA, 70
+Tucson, AZ, -7664.49, 2226.38, 4, 5
+    El Paso, TX, 262
+    Flagstaff, AZ, 209
+    Phoenix, AZ, 107
+    Gallup, NM, 260
+Tulsa, OK, -6632.67, 2498.08, 4, 5
+    Enid, OK, 106
+    Ft Smith, AR, 103
+    Joplin, MO, 104
+    Oklahoma City, OK, 97
+Urbana, IL, -6094.74, 2771.47, 7, 7
+    Bloomington, IL, 48
+    Champaign, IL, 1
+    Decatur, IL, 43
+    Lafayette, IN, 73
+    Peoria, IL, 83
+    Springfield, IL, 79
+    Terre Haute, IN, 61
+Utica, NY, -5198.28, 2978.08, 5, 5
+    Binghamtom, NY, 77
+    Schenectady, NY, 68
+    Syracuse, NY, 46
+    Albany, NY, 80
+    Troy, NY, 82
+Vancouver, BC, -8511.34, 3399.16, 4, 6
+    Bellingham, WA, 43
+    Prince Rupert, BC, 468
+    Seattle, WA, 116
+    Tacoma, WA, 138
+Victoria, BC, -8528.19, 3361.29, 5, 6
+    Bellingham, WA, 43
+    Prince Rupert, BC, 492
+    Seattle, WA, 87
+    Tacoma, WA, 106
+    Vancouver, BC, 39
+Waco, TX, -6712.39, 2179.91, 6, 6
+    Abilene, TX, 163
+    Austin, TX, 95
+    Dallas, TX, 87
+    Ft Worth, TX, 81
+    Houston, TX, 162
+    San Antonio, TX, 167
+Walla Walla, WA, -8176.92, 3182.87, 4, 5
+    Boise, ID, 199
+    Spokane, WA, 118
+    Tacoma, WA, 211
+    Portland, OR, 212
+Washington, DC, -5322.90, 2687.48, 6, 7
+    Baltimore, MD, 35
+    Norfolk, VA, 147
+    Portsmouth, VA, 147
+    Richmond, VA, 95
+    Lancaster, PA, 88
+    Harrisburg, PA, 95
+Waterloo, IA, -6380.49, 2936.07, 5, 5
+    Cedar Rapids, IA, 48
+    Des Moines, IA, 89
+    Dubuque, IA, 85
+    Iowa City, IA, 70
+    Rochester, MN, 105
+West Palm Beach, FL, -5531.36, 1845.89, 7, 7
+    Key West, FL, 184
+    Miami, FL, 65
+    San Juan, PR, 1055
+    Sarasota, FL, 158
+    Orlando, FL, 149
+    Tampa, FL, 170
+    Saint Petersburg, FL, 177
+Wheeling, WV, -5577.48, 2768.24, 5, 7
+    Akron, OH, 81
+    Canton, OH, 61
+    Charleston, WV, 128
+    Pittsburgh, PA, 46
+    Steubenville, OH, 21
+Whitehorse, YK, -9332.64, 4194.80, 7, 8
+    Alert, NT, 1929
+    Anchorage, AK, 497
+    Dawson, YT, 264
+    Fairbanks, AK, 489
+    Juneau, AK, 167
+    Nome, AK, 988
+    Prince Rupert, BC, 475
+White Plains, NY, -5096.73, 2835.26, 8, 8
+    Bridgeport, CT, 30
+    Central Islip, NY, 33
+    Elizabeth, NJ, 34
+    Jersey City, NJ, 26
+    Newark, NJ, 29
+    New York, NY, 25
+    Paterson, NJ, 22
+    Stamford, CT, 11
+Wichita, KS, -6725.58, 2604.37, 6, 6
+    Dodge City, KS, 146
+    Enid, OK, 94
+    Oklahoma City, OK, 154
+    Salina, KS, 80
+    Topeka, KS, 129
+    Tulsa, OK, 129
+Wilkes-Barre, PA, -5243.09, 2849.91, 5, 5
+    Allentown, PA, 48
+    Binghamtom, NY, 58
+    Reading, PA, 62
+    Johnstown, PA, 70
+    Harrisburg, PA, 85
+Wilmington, DE, -5219.97, 2746.26, 8, 8
+    Atlantic City, NJ, 65
+    Baltimore, MD, 64
+    Johnstown, PA, 54
+    Lancaster, PA, 45
+    Philadelphia, PA, 24
+    Reading, PA, 45
+    Washington, DC, 98
+    Trenton, NJ, 53
+Wilmington, NC, -5385.66, 2364.84, 5, 5
+    Charleston, SC, 152
+    Raleigh, NC, 113
+    Durham, NC, 133
+    Greensboro, NC, 164
+    Columbia, SC, 177
+Windsor, ON, -5732.06, 2921.00, 6, 6
+    Ann Arbor, MI, 39
+    Cleveland, OH, 84
+    Detroit, MI, 5
+    Toledo, OH, 52
+    Flint, MI, 62
+    Jackson, MI, 73
+Winnipeg, MB, -6719.09, 3448.62, 6, 6
+    Brandon, MB, 120
+    Churchill, MB, 623
+    Fargo, ND, 210
+    Minot, ND, 216
+    Bismarck, ND, 268
+    Duluth, MN, 319
+Winston-Salem, NC, -5544.54, 2494.33, 6, 6
+    Asheville, NC, 133
+    Charlotte, NC, 69
+    Durham, NC, 75
+    Greensboro, NC, 25
+    Raleigh, NC, 92
+    Roanoke, VA, 82
+Worcester, MA, -4961.26, 2920.16, 8, 8
+    Boston, MA, 38
+    Brattleboro, VT, 55
+    Cambridge, MA, 36
+    Fall River, MA, 51
+    Lowell, MA, 35
+    Providence, RI, 36
+    Springfield, MA, 41
+    Brockton, MA, 41
+Yakima, WA, -8326.35, 3220.01, 10, 10
+    Bellingham, WA, 175
+    Eugene, OR, 216
+    Portland, OR, 127
+    Salem, OR, 167
+    Seattle, WA, 110
+    Spokane, WA, 162
+    Tacoma, WA, 101
+    Vancouver, BC, 217
+    Victoria, BC, 196
+    Walla Walla, WA, 109
+Yellowknife, NT, -7907.33, 4315.91, 6, 6
+    Alert, NT, 1633
+    Churchill, MB, 733
+    Edmonton, AB, 615
+    Whitehorse, YK, 685
+    Juneau, AK, 736
+    Saskatoon, SK, 766
+Youngstown, OH, -5572.55, 2839.81, 7, 7
+    Akron, OH, 45
+    Canton, OH, 43
+    Cleveland, OH, 60
+    Erie, PA, 76
+    Pittsburgh, PA, 56
+    Steubenville, OH, 50
+    Wheeling, WV, 71
+Yuma, AZ, -7919.99, 2261.17, 6, 6
+    Flagstaff, AZ, 241
+    Phoenix, AZ, 155
+    San Diego, CA, 147
+    Tucson, AZ, 218
+    San Bernardino, CA, 180
+    Pasadena, CA, 225
+Zanesville, OH, -5666.77, 2759.70, 7, 7
+    Ashland, KY, 106
+    Charleston, WV, 111
+    Columbus, OH, 52
+    Wheeling, WV, 68
+    Canton, OH, 68
+    Steubenville, OH, 78
+    Akron, OH, 82
