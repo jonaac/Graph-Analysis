@@ -29,7 +29,7 @@ I did this by the following algorithm.
 - After each edge removal, I recompute the remaining edges' betweenness scores — that is, with respect to the ”new” graph that resulted from the previous edge removal — since the edges' betweenness scores may now have changed.
 - Once the graph has become disconnected, I add back as many edges to the graph that you had deleted as possible that still leaves the graph disconnected. (this is simply adding back each deleted edge that is between nodes in one or the other connected component, but that is not a “bridge” edges between the two components)
 
-When I ran this on the city graph, my program removed 20 edges, then returned 8, leaving a twelve-edge cut of the graph. Note that a plot of the “cut” graph might not readily show a clear two regions with no lines between them; that also depends on how the graph is plotted with node position information. In this case, however, the separation is visually apparent.
+When I ran this on the city graph, my program removed 20 edges, then returned 9, leaving a eleven-edge cut of the graph. Note that a plot of the “cut” graph might not readily show a clear two regions with no lines between them; that also depends on how the graph is plotted with node position information. In this case, however, the separation is visually apparent.
 
 ### Module networkx
 
