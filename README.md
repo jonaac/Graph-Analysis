@@ -42,7 +42,7 @@ Module networkx is a comprehensive Python library for handling graphs and perfor
 
 I used matplotlib to plot your graph. I plotted the graph for the full city graph as follows.
 
-'''
+```python
 import matplotlib.pyplot as plot
 import networkx as nx
     ⋮ 
@@ -58,4 +58,4 @@ nx.draw(G,
 
 #plot.savefig('city-plot.png')
 plot.show()
-'''
+```
