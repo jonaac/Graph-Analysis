@@ -63,29 +63,43 @@ plot.show()
 
 ```python
 #Queue
-class Queue:
 
-	MAX = 1000
+class Node:
+
+	def __init__(self,item):
+		self.item = item
+		self.next = None
+		self.previous = None
+
+	def string(self):
+		return str(self.item)
+
+class QueueList:
 
 	def __init__(self):
-		self.head = 0
-		self.tail = 0
-		self.items = [None] * self.MAX
+		self.length = 0
+		self.head = None
+		self.tail = None
 
 	def empty(self):
-		return self.head == self.tail
+		return self.length == 0
 
 	def enqueue(self, item):
-		self.items[self.tail] = item
-		self.tail += 1
-		if self.tail == self.MAX: self.tail == 0
+		node = Node(item)
+		self.length += 1 
+		if self.head is None:
+			self.head = node
+			self.tail = node
+		else:
+			self.tail.next = node
+			node.previous = self.tail
+			self.tail = node
 
 	def dequeue(self):
-		popped = self.items[self.head]
-		self.head += 1
-		if self.tail == self.MAX: self.tail == 0
-		return popped
-
-	def size(self):
-		return len(self.items)
+		if self.length > 0:
+			item = self.head.item
+			self.head = self.head.next
+			self.length -= 1
+			return item
+		else: raise NameError('StackEmpty')
 ```
