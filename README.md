@@ -59,3 +59,34 @@ nx.draw(G,
 #plot.savefig('city-plot.png')
 plot.show()
 ```
+
+
+```python
+import sys
+import os
+
+def sort(a1,a2):
+	so = []
+	i, j = 0, 0
+	for k in range(len(a1) + len(a2)):
+		if i >= len(a1): 
+			so.extend(a2[j:])
+			break
+		elif j >= len(a2): 
+			so.extend(a1[i:])
+			break
+		elif a1[i] <= a2[j]:
+			so.append(a1[i])
+			i += 1
+		else:
+			so.append(a2[j])
+			j += 1
+	return so
+
+def merge_sort(a):
+	if len(a) == 1: return a
+	midpoint = int(len(a)/2)
+	a1 = merge_sort(a[:midpoint])
+	a2 = merge_sort(a[midpoint:])
+	return sort(a1,a2)
+```
