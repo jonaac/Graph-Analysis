@@ -62,39 +62,30 @@ plot.show()
 
 
 ```python
-#Stack
-class Node:
+#Queue
+class Queue:
 
-	def __init__(self,item):
-		self.item = item
-		self.next = None
-
-	def string(self):
-		return str(self.item)
-
-class StackList:
+	MAX = 1000
 
 	def __init__(self):
-		self.root = None
+		self.head = 0
+		self.tail = 0
+		self.items = [None] * self.MAX
 
 	def empty(self):
-		if self.root == None: return True
-		else: return False
+		return self.head == self.tail
 
-	def push(self,item):
-		new_item = Node(item)
-		new_item.next = self.root
-		self.root = new_item
+	def enqueue(self, item):
+		self.items[self.tail] = item
+		self.tail += 1
+		if self.tail == self.MAX: self.tail == 0
 
-	def pop(self):
-		if (self.empty()): raise NameError('StackEmpty')
-		else:
-			aux = self.root
-			self.root = self.root.next
-			popped = aux
-			return popped.string()
+	def dequeue(self):
+		popped = self.items[self.head]
+		self.head += 1
+		if self.tail == self.MAX: self.tail == 0
+		return popped
 
-	def peek(self):
-		if (self.empty()): return "Empty"
-		else: return self.root.item
+	def size(self):
+		return len(self.items)
 ```
