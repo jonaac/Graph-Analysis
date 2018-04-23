@@ -62,19 +62,36 @@ plot.show()
 
 
 ```python
-import sys
-import os
+# Stack
+class Stack:
 
-def quick_sort(a):
-	if len(a) <= 1: return a
-	pivot = 0
-	for i in range(len(a) - 1):
-		if a[i] <= a[len(a) - 1]:
-			aux = a[pivot]
-			a[pivot] = a[i]
-			a[i] = aux
-			pivot += 1
-	a1 = quick_sort(a[:pivot])
-	a2 = quick_sort(a[pivot:(len(a) - 1)])
-	return a1 + [a[len(a) - 1]] + a2
+	MAX = 1000
+	top = 0
+	items = []
+
+	def __init__(self):
+		self.top = -1
+		self.items = [None] * self.MAX
+
+	def empty(self):
+		if self.top == -1: return True
+		else: return False
+
+	def push(self,item):
+		self.top += 1
+		self.items[self.top] = item
+		print("Pushed to stack " + str(item))
+
+	def pop(self):
+		if self.top >= 0:
+			self.top -= 1
+			return self.items[self.top + 1]
+		else: raise NameError('StackEmpty')
+
+	def peek(self):
+		return self.items[self.top]
+
+	def string(self):
+		string = str(self.items[:(self.top+1)])
+		return string
 ```
