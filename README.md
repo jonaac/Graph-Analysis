@@ -62,36 +62,39 @@ plot.show()
 
 
 ```python
-# Stack
-class Stack:
+#Stack
+class Node:
 
-	MAX = 1000
-	top = 0
-	items = []
+	def __init__(self,item):
+		self.item = item
+		self.next = None
+
+	def string(self):
+		return str(self.item)
+
+class StackList:
 
 	def __init__(self):
-		self.top = -1
-		self.items = [None] * self.MAX
+		self.root = None
 
 	def empty(self):
-		if self.top == -1: return True
+		if self.root == None: return True
 		else: return False
 
 	def push(self,item):
-		self.top += 1
-		self.items[self.top] = item
-		print("Pushed to stack " + str(item))
+		new_item = Node(item)
+		new_item.next = self.root
+		self.root = new_item
 
 	def pop(self):
-		if self.top >= 0:
-			self.top -= 1
-			return self.items[self.top + 1]
-		else: raise NameError('StackEmpty')
+		if (self.empty()): raise NameError('StackEmpty')
+		else:
+			aux = self.root
+			self.root = self.root.next
+			popped = aux
+			return popped.string()
 
 	def peek(self):
-		return self.items[self.top]
-
-	def string(self):
-		string = str(self.items[:(self.top+1)])
-		return string
+		if (self.empty()): return "Empty"
+		else: return self.root.item
 ```
