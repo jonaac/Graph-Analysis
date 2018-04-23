@@ -82,7 +82,7 @@ def sort(a1,a2):
 			so.append(a2[j])
 			j += 1
 	return so
-
+	
 def merge_sort(a):
 	if len(a) == 1: return a
 	midpoint = int(len(a)/2)
