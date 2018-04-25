@@ -62,89 +62,46 @@ plot.show()
 
 
 ```python
-import sys
-    
-def get_breadth_first_nodes(root):
-    nodes = []
-    stack = [root]
-    while stack:
-        cur_node = stack[0]
-        stack = stack[1:]
-        nodes.append(cur_node)
-        for child in cur_node.get_children():
-            stack.append(child)
-    return nodes
+class Node:
 
-def get_depth_first_nodes(root):
-    nodes = []
-    stack = [root]
-    while stack:
-        cur_node = stack[0]
-        stack = stack[1:]
-        nodes.append(cur_node)        
-        for child in cur_node.get_rev_children():
-            stack.insert(0, child)
-    return nodes
+    def __init__(self, data):
 
-########################################################################
-class Node(object):
-    def __init__(self, id_):
-        self.id = id_
-        self.children = []
-        
-    def __repr__(self):
-        return "Node: [%s]" % self.id
-    
-    def add_child(self, node):
-        self.children.append(node) 
-    
-    def get_children(self):
-        return self.children         
-    
-    def get_rev_children(self):
-        children = self.children[:]
-        children.reverse()
-        return children         
+        self.left = None
+        self.right = None
+        self.data = data
 
-########################################################################
-def println(text):
-    sys.stdout.write(text + "\n")
-    
-def make_test_tree():
-    a0 = Node("a0")
-    b0 = Node("b0")      
-    b1 = Node("b1")      
-    b2 = Node("b2")      
-    c0 = Node("c0")      
-    c1 = Node("c1")  
-    d0 = Node("d0")   
-    
-    a0.add_child(b0) 
-    a0.add_child(b1) 
-    a0.add_child(b2)
-    
-    b0.add_child(c0) 
-    b0.add_child(c1) 
-    
-    c0.add_child(d0)
-    
-    return a0                  
-
-def test_breadth_first_nodes():
-    root = make_test_tree()
-    node_list = get_breadth_first_nodes(root)
-    for node in node_list:
-        println(str(node))
-
-def test_depth_first_nodes():
-    root = make_test_tree()
-    node_list = get_depth_first_nodes(root)
-    for node in node_list:
-        println(str(node))
-
-########################################################################
-if __name__ == "__main__":
-    test_breadth_first_nodes()
-    println("")
-    test_depth_first_nodes()
+# Insert method to create nodes
+    def insert(self, data):
+        if self.data:
+            if data < self.data:
+                if self.left is None:
+                    self.left = Node(data)
+                else:
+                    self.left.insert(data)
+            elif data > self.data:
+                if self.right is None:
+                    self.right = Node(data)
+                else:
+                    self.right.insert(data)
+        else:
+            self.data = data
+# findval method to compare the value with nodes
+    def findval(self, lkpval):
+        if lkpval < self.data:
+            if self.left is None:
+                return str(lkpval)+" Not Found"
+            return self.left.findval(lkpval)
+        elif lkpval > self.data:
+            if self.right is None:
+                return str(lkpval)+" Not Found"
+            return self.right.findval(lkpval)
+        else:
+            print(str(self.data) + ' is found')
+# Print the tree
+    def PrintTree(self):
+        if self.left:
+            self.left.PrintTree()
+        print( self.data),
+        if self.right:
+            self.right.PrintTree()
 ```
