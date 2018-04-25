@@ -62,72 +62,56 @@ plot.show()
 
 
 ```python
-#Hash Table Collision
-
-class Item:
-
-	def __init__(self,key,value):
-		self.key = key
-		self.value = value
+#Hash Table Open Adressing
 
 class HashTable:
 
 	def __init__(self):
-		self.size = 1000
-		self.data = [[]] * self.size
+		self.size = 11
+		self.slots = [None] * self.size
+		self.data = [None] * self.size
 
 	def hash(key):
 		return int(key)%(self.size)
 
-	def put(self,key,val):
-		item = Item(key,val)
-		index = hash(key)
-		found = False
-		if self.data[index] != []:
-			i = 0
-			while i < len(self.data[index]) and not found:
-				if self.data[index][i].key == item.key or self.data[index][i] == None:
-					self.data[index][i] = item
-					found = True
-				i += 1
-			if not found:
-				self.data[index].append(item)
+	def put(self,key,data):
+		hashvalue = self.hashfunction(key,len(self.slots))
+
+		if self.slots[hashvalue] == None:
+			self.slots[hashvalue] = key
+			self.data[hashvalue] = data
 		else:
-			self.data[index].append(item)
+			if self.slots[hashvalue] == key:
+				self.data[hashvalue] = data
+			else:
+				nextslot = self.rehash(hashvalue,len(self.slots))
+				while self.slots[nextslot] != None and self.slots[nextslot] != key:
+					nextslot = self.rehash(nextslot,len(self.slots))
+				if self.slots[nextslot] == None:
+					self.slots[nextslot]=key
+					self.data[nextslot]=data
+				else:
+					self.data[nextslot] = data #replace
+
+	def hashfunction(self,key,size):
+		return key%size
+
+	def rehash(self,oldhash,size):
+		return (oldhash+1)%size
 
 	def get(self,key):
-		index = hash(key)
-		if len(self.data[index]) == 0:
-			raise NameError('EmptyHash')
-		else:
-			for item in self.data[index]:
-				if item.key == key:
-					return item.value
-			raise NameError('NotInHash')
-
-	def delelte(self,key):
-		index = hash(key)
-		if len(self.data[index]) == 0:
-			raise NameError('EmptyHash')
-		else:
-			i = 0
-			while i < len(self.data[index]):
-				if self.data[index][i].key == item.key:
-					self.data[index][i] = None
-					return
-				i += 1
-			raise NameError('NotInHash')
-
-	def len(self):
-		return self.size
-
-	def exists(self,key):
-		index = hash(key)
-		if len(self.data[index]) == 0:
-			raise NameError('EmptyHash')
-		else:
-			for item in self.data[index]:
-				if item.key == key:
-					return True
-			return False
+		startslot = self.hashfunction(key,len(self.slots))
+		data = None
+		stop = False
+		found = False
+		position = startslot
+		while self.slots[position] != None and not found and not stop:
+			if self.slots[position] == key:
+				found = True
+				data = self.data[position]
+			else:
+				position=self.rehash(position,len(self.slots))
+				if position == startslot:
+					stop = True
+		return data
 ```
