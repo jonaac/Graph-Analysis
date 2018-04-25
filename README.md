@@ -95,7 +95,32 @@ class Node:
             return self.right.findval(lkpval)
         else:
             print(str(self.data) + ' is found')
+    def delete(self, data):
 
+        if self is None:
+            return None
+
+        if data < self.data:
+            self.left = self.left.delete(data)
+        elif data > self.data:
+            self.right = self.right.delete(data)
+        else:
+
+            if self.left is None:
+                temp = self.right
+                self = None
+                return temp
+            elif self.right is None:
+                temp = self.left
+                self = None
+                return temp
+
+            temp = self.minValueNode(self.right)
+            self.data = temp.data
+            self.right = self.right.delete(temp.data)
+
+        return self
+        
     def PrintTree(self):
         if self.left:
             self.left.PrintTree()
