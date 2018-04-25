@@ -62,44 +62,72 @@ plot.show()
 
 
 ```python
-#Queue
+#Hash Table Collision
 
-class Node:
+class Item:
 
-	def __init__(self,item):
-		self.item = item
-		self.next = None
-		self.previous = None
+	def __init__(self,key,value):
+		self.key = key
+		self.value = value
 
-	def string(self):
-		return str(self.item)
-
-class QueueList:
+class HashTable:
 
 	def __init__(self):
-		self.length = 0
-		self.head = None
-		self.tail = None
+		self.size = 1000
+		self.data = [[]] * self.size
 
-	def empty(self):
-		return self.length == 0
+	def hash(key):
+		return int(key)%(self.size)
 
-	def enqueue(self, item):
-		node = Node(item)
-		self.length += 1 
-		if self.head is None:
-			self.head = node
-			self.tail = node
+	def put(self,key,val):
+		item = Item(key,val)
+		index = hash(key)
+		found = False
+		if self.data[index] != []:
+			i = 0
+			while i < len(self.data[index]) and not found:
+				if self.data[index][i].key == item.key or self.data[index][i] == None:
+					self.data[index][i] = item
+					found = True
+				i += 1
+			if not found:
+				self.data[index].append(item)
 		else:
-			self.tail.next = node
-			node.previous = self.tail
-			self.tail = node
+			self.data[index].append(item)
 
-	def dequeue(self):
-		if self.length > 0:
-			item = self.head.item
-			self.head = self.head.next
-			self.length -= 1
-			return item
-		else: raise NameError('StackEmpty')
+	def get(self,key):
+		index = hash(key)
+		if len(self.data[index]) == 0:
+			raise NameError('EmptyHash')
+		else:
+			for item in self.data[index]:
+				if item.key == key:
+					return item.value
+			raise NameError('NotInHash')
+
+	def delelte(self,key):
+		index = hash(key)
+		if len(self.data[index]) == 0:
+			raise NameError('EmptyHash')
+		else:
+			i = 0
+			while i < len(self.data[index]):
+				if self.data[index][i].key == item.key:
+					self.data[index][i] = None
+					return
+				i += 1
+			raise NameError('NotInHash')
+
+	def len(self):
+		return self.size
+
+	def exists(self,key):
+		index = hash(key)
+		if len(self.data[index]) == 0:
+			raise NameError('EmptyHash')
+		else:
+			for item in self.data[index]:
+				if item.key == key:
+					return True
+			return False
 ```
