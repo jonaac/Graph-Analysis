@@ -65,12 +65,10 @@ plot.show()
 class Node:
 
     def __init__(self, data):
-
         self.left = None
         self.right = None
         self.data = data
 
-# Insert method to create nodes
     def insert(self, data):
         if self.data:
             if data < self.data:
@@ -85,7 +83,7 @@ class Node:
                     self.right.insert(data)
         else:
             self.data = data
-# findval method to compare the value with nodes
+
     def findval(self, lkpval):
         if lkpval < self.data:
             if self.left is None:
@@ -97,7 +95,7 @@ class Node:
             return self.right.findval(lkpval)
         else:
             print(str(self.data) + ' is found')
-# Print the tree
+
     def PrintTree(self):
         if self.left:
             self.left.PrintTree()
