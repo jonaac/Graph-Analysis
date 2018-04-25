@@ -62,56 +62,89 @@ plot.show()
 
 
 ```python
-#Hash Table Open Adressing
+import sys
+    
+def get_breadth_first_nodes(root):
+    nodes = []
+    stack = [root]
+    while stack:
+        cur_node = stack[0]
+        stack = stack[1:]
+        nodes.append(cur_node)
+        for child in cur_node.get_children():
+            stack.append(child)
+    return nodes
 
-class HashTable:
+def get_depth_first_nodes(root):
+    nodes = []
+    stack = [root]
+    while stack:
+        cur_node = stack[0]
+        stack = stack[1:]
+        nodes.append(cur_node)        
+        for child in cur_node.get_rev_children():
+            stack.insert(0, child)
+    return nodes
 
-	def __init__(self):
-		self.size = 11
-		self.slots = [None] * self.size
-		self.data = [None] * self.size
+########################################################################
+class Node(object):
+    def __init__(self, id_):
+        self.id = id_
+        self.children = []
+        
+    def __repr__(self):
+        return "Node: [%s]" % self.id
+    
+    def add_child(self, node):
+        self.children.append(node) 
+    
+    def get_children(self):
+        return self.children         
+    
+    def get_rev_children(self):
+        children = self.children[:]
+        children.reverse()
+        return children         
 
-	def hash(key):
-		return int(key)%(self.size)
+########################################################################
+def println(text):
+    sys.stdout.write(text + "\n")
+    
+def make_test_tree():
+    a0 = Node("a0")
+    b0 = Node("b0")      
+    b1 = Node("b1")      
+    b2 = Node("b2")      
+    c0 = Node("c0")      
+    c1 = Node("c1")  
+    d0 = Node("d0")   
+    
+    a0.add_child(b0) 
+    a0.add_child(b1) 
+    a0.add_child(b2)
+    
+    b0.add_child(c0) 
+    b0.add_child(c1) 
+    
+    c0.add_child(d0)
+    
+    return a0                  
 
-	def put(self,key,data):
-		hashvalue = self.hashfunction(key,len(self.slots))
+def test_breadth_first_nodes():
+    root = make_test_tree()
+    node_list = get_breadth_first_nodes(root)
+    for node in node_list:
+        println(str(node))
 
-		if self.slots[hashvalue] == None:
-			self.slots[hashvalue] = key
-			self.data[hashvalue] = data
-		else:
-			if self.slots[hashvalue] == key:
-				self.data[hashvalue] = data
-			else:
-				nextslot = self.rehash(hashvalue,len(self.slots))
-				while self.slots[nextslot] != None and self.slots[nextslot] != key:
-					nextslot = self.rehash(nextslot,len(self.slots))
-				if self.slots[nextslot] == None:
-					self.slots[nextslot]=key
-					self.data[nextslot]=data
-				else:
-					self.data[nextslot] = data #replace
+def test_depth_first_nodes():
+    root = make_test_tree()
+    node_list = get_depth_first_nodes(root)
+    for node in node_list:
+        println(str(node))
 
-	def hashfunction(self,key,size):
-		return key%size
-
-	def rehash(self,oldhash,size):
-		return (oldhash+1)%size
-
-	def get(self,key):
-		startslot = self.hashfunction(key,len(self.slots))
-		data = None
-		stop = False
-		found = False
-		position = startslot
-		while self.slots[position] != None and not found and not stop:
-			if self.slots[position] == key:
-				found = True
-				data = self.data[position]
-			else:
-				position=self.rehash(position,len(self.slots))
-				if position == startslot:
-					stop = True
-		return data
+########################################################################
+if __name__ == "__main__":
+    test_breadth_first_nodes()
+    println("")
+    test_depth_first_nodes()
 ```
